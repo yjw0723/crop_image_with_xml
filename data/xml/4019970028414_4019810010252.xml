@@ -1,0 +1,26 @@
+<annotation>
+	<folder>새 폴더</folder>
+	<filename>4019810010252.jpg</filename>
+	<path>C:\Users\이은숙\Desktop\새 폴더\4019810010252.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>576</width>
+		<height>475</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>153</xmin>
+			<ymin>39</ymin>
+			<xmax>525</xmax>
+			<ymax>410</ymax>
+		</bndbox>
+	</object>
+</annotation>
